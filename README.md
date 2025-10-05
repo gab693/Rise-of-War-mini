@@ -21,6 +21,7 @@ Credits to ChatGPT for teaching me the logic behind combat systems.
 - XP and leveling system
 - Upgradable weapons
 - Shop system
+- Save System
 
 ## 📜 License
 MIT License — free to use and modify.
